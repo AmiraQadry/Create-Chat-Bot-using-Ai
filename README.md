@@ -1,6 +1,6 @@
 # Create Chat Bot using Ai
 
-1. Set up the software environment to create an AI chatbot. You will need Python, Pip, OpenAI, an OpenAI API key, and a code editor.
+1. Set up the software environment to create an AI chatbot. You will need Python, Pip, [OpenAI](https://openai.com/), an OpenAI API key, and a code editor.
 2. Install the required libraries and upgrade Pip.
 3. Get the OpenAI API key for free.
 4. Build your own AI chatbot with ChatGPT API.
