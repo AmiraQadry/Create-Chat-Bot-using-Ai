@@ -1,5 +1,5 @@
 # Create Chat Bot using Ai
-![image](https://github.com/AmiraQadry/Create-Chat-Bot-using-Ai/assets/106974489/cb28fed7-c6bf-427a-a39a-cb5ec23724f1)
+![image](https://github.com/AmiraQadry/Create-Chat-Bot-using-Ai/assets/106974489/df3c0f44-1a4c-497a-8143-5512eecef0ff)
 
 1. Set up the software environment to create an AI chatbot. You will need Python, Pip, [OpenAI](https://openai.com/), an OpenAI API key, and a code editor.
 2. Install the required libraries and upgrade Pip.
